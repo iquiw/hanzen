@@ -1,0 +1,7 @@
+[package]
+authors = ["Iku Iwasa <iku.iwasa@gmail.com>"]
+name = "hanzen"
+version = "0.1.0"
+
+[dependencies]
+unicode-normalization = "*"
